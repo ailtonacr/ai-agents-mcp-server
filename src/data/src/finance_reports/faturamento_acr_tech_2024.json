@@ -1,0 +1,155 @@
+[
+  {
+    "id": "fat_2024_01",
+    "doc_type": "faturamento_mensal",
+    "month": "Janeiro",
+    "year": 2024,
+    "value": 150000,
+    "source": "relatorio_anual_2024",
+    "content": "O faturamento de Janeiro de 2024 foi de R$ 150.000,00."
+  },
+  {
+    "id": "fat_2024_02",
+    "doc_type": "faturamento_mensal",
+    "month": "Fevereiro",
+    "year": 2024,
+    "value": 180000,
+    "source": "relatorio_anual_2024",
+    "content": "O faturamento de Fevereiro de 2024 foi de R$ 180.000,00."
+  },
+  {
+    "id": "fat_2024_03",
+    "doc_type": "faturamento_mensal",
+    "month": "Março",
+    "year": 2024,
+    "value": 210000,
+    "source": "relatorio_anual_2024",
+    "content": "O faturamento de Março de 2024 foi de R$ 210.000,00."
+  },
+  {
+    "id": "fat_2024_04",
+    "doc_type": "faturamento_mensal",
+    "month": "Abril",
+    "year": 2024,
+    "value": 195000,
+    "source": "relatorio_anual_2024",
+    "content": "O faturamento de Abril de 2024 foi de R$ 195.000,00."
+  },
+  {
+    "id": "fat_2024_05",
+    "doc_type": "faturamento_mensal",
+    "month": "Maio",
+    "year": 2024,
+    "value": 230000,
+    "source": "relatorio_anual_2024",
+    "content": "O faturamento de Maio de 2024 foi de R$ 230.000,00."
+  },
+  {
+    "id": "fat_2024_06",
+    "doc_type": "faturamento_mensal",
+    "month": "Junho",
+    "year": 2024,
+    "value": 250000,
+    "source": "relatorio_anual_2024",
+    "content": "O faturamento de Junho de 2024 foi de R$ 250.000,00."
+  },
+  {
+    "id": "fat_2024_07",
+    "doc_type": "faturamento_mensal",
+    "month": "Julho",
+    "year": 2024,
+    "value": 275000,
+    "source": "relatorio_anual_2024",
+    "content": "O faturamento de Julho de 2024 foi de R$ 275.000,00."
+  },
+  {
+    "id": "fat_2024_08",
+    "doc_type": "faturamento_mensal",
+    "month": "Agosto",
+    "year": 2024,
+    "value": 300000,
+    "source": "relatorio_anual_2024",
+    "content": "O faturamento de Agosto de 2024 foi de R$ 300.000,00."
+  },
+  {
+    "id": "fat_2024_09",
+    "doc_type": "faturamento_mensal",
+    "month": "Setembro",
+    "year": 2024,
+    "value": 280000,
+    "source": "relatorio_anual_2024",
+    "content": "O faturamento de Setembro de 2024 foi de R$ 280.000,00."
+  },
+  {
+    "id": "fat_2024_10",
+    "doc_type": "faturamento_mensal",
+    "month": "Outubro",
+    "year": 2024,
+    "value": 310000,
+    "source": "relatorio_anual_2024",
+    "content": "O faturamento de Outubro de 2024 foi de R$ 310.000,00."
+  },
+  {
+    "id": "fat_2024_11",
+    "doc_type": "faturamento_mensal",
+    "month": "Novembro",
+    "year": 2024,
+    "value": 350000,
+    "source": "relatorio_anual_2024",
+    "content": "O faturamento de Novembro de 2024 foi de R$ 350.000,00."
+  },
+  {
+    "id": "fat_2024_12",
+    "doc_type": "faturamento_mensal",
+    "month": "Dezembro",
+    "year": 2024,
+    "value": 400000,
+    "source": "relatorio_anual_2024",
+    "content": "O faturamento de Dezembro de 2024 foi de R$ 400.000,00."
+  },
+  {
+    "id": "fat_2024_total",
+    "doc_type": "faturamento_anual",
+    "month": null,
+    "year": 2024,
+    "value": 3130000,
+    "source": "relatorio_anual_2024",
+    "content": "O faturamento Anual Total de 2024 para a ACR Tech foi de R$ 3.130.000,00."
+  },
+  {
+    "id": "obs_2024_01",
+    "doc_type": "observacao_crescimento",
+    "month": null,
+    "year": 2024,
+    "value": null,
+    "source": "relatorio_anual_2024",
+    "content": "O crescimento no segundo semestre foi impulsionado pelo lançamento do novo produto 'ACR-X'."
+  },
+  {
+    "id": "obs_2024_02",
+    "doc_type": "observacao_vendas",
+    "month": null,
+    "year": 2024,
+    "value": null,
+    "source": "relatorio_anual_2024",
+    "content": "O mês de Dezembro teve um desempenho excepcional devido às vendas de fim de ano."
+  },
+  {
+    "id": "prod_record_2024",
+    "doc_type": "produto_recorde_vendas",
+    "month": null,
+    "year": 2024,
+    "value": null,
+    "source": "relatorio_anual_2024",
+    "content": "O produto com maior volume de vendas em 2024 foi o ACR-X Pro, responsável por 40% do faturamento anual."
+  },
+  {
+    "id": "proj_2025_2026",
+    "doc_type": "projecao_faturamento",
+    "month": null,
+    "year": 2025,
+    "value": 3700000,
+    "source": "relatorio_anual_2024",
+    "content": "A projeção de faturamento para 2025 é de R$ 3.700.000,00, com expectativa de crescimento de 12% em 2026."
+  }
+]

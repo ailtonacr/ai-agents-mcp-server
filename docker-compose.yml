@@ -1,0 +1,10 @@
+services:
+  mcp-server:
+    build: .
+    container_name: ai-agents-mcp-server
+    ports:
+      - "8001:8001"
+    volumes:
+      - ./src:/app/src
+      - ./logs:/app/logs
+    restart: unless-stopped
