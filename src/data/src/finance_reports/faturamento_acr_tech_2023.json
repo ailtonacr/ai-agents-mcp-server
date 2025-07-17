@@ -1,0 +1,155 @@
+[
+  {
+    "id": "fat_2023_01",
+    "doc_type": "faturamento_mensal",
+    "month": "Janeiro",
+    "year": 2023,
+    "value": 95000,
+    "source": "relatorio_anual_2023",
+    "content": "O faturamento de Janeiro de 2023 foi de R$ 95.000,00."
+  },
+  {
+    "id": "fat_2023_02",
+    "doc_type": "faturamento_mensal",
+    "month": "Fevereiro",
+    "year": 2023,
+    "value": 110000,
+    "source": "relatorio_anual_2023",
+    "content": "O faturamento de Fevereiro de 2023 foi de R$ 110.000,00."
+  },
+  {
+    "id": "fat_2023_03",
+    "doc_type": "faturamento_mensal",
+    "month": "Março",
+    "year": 2023,
+    "value": 130000,
+    "source": "relatorio_anual_2023",
+    "content": "O faturamento de Março de 2023 foi de R$ 130.000,00."
+  },
+  {
+    "id": "fat_2023_04",
+    "doc_type": "faturamento_mensal",
+    "month": "Abril",
+    "year": 2023,
+    "value": 125000,
+    "source": "relatorio_anual_2023",
+    "content": "O faturamento de Abril de 2023 foi de R$ 125.000,00."
+  },
+  {
+    "id": "fat_2023_05",
+    "doc_type": "faturamento_mensal",
+    "month": "Maio",
+    "year": 2023,
+    "value": 140000,
+    "source": "relatorio_anual_2023",
+    "content": "O faturamento de Maio de 2023 foi de R$ 140.000,00."
+  },
+  {
+    "id": "fat_2023_06",
+    "doc_type": "faturamento_mensal",
+    "month": "Junho",
+    "year": 2023,
+    "value": 160000,
+    "source": "relatorio_anual_2023",
+    "content": "O faturamento de Junho de 2023 foi de R$ 160.000,00."
+  },
+  {
+    "id": "fat_2023_07",
+    "doc_type": "faturamento_mensal",
+    "month": "Julho",
+    "year": 2023,
+    "value": 180000,
+    "source": "relatorio_anual_2023",
+    "content": "O faturamento de Julho de 2023 foi de R$ 180.000,00."
+  },
+  {
+    "id": "fat_2023_08",
+    "doc_type": "faturamento_mensal",
+    "month": "Agosto",
+    "year": 2023,
+    "value": 195000,
+    "source": "relatorio_anual_2023",
+    "content": "O faturamento de Agosto de 2023 foi de R$ 195.000,00."
+  },
+  {
+    "id": "fat_2023_09",
+    "doc_type": "faturamento_mensal",
+    "month": "Setembro",
+    "year": 2023,
+    "value": 210000,
+    "source": "relatorio_anual_2023",
+    "content": "O faturamento de Setembro de 2023 foi de R$ 210.000,00."
+  },
+  {
+    "id": "fat_2023_10",
+    "doc_type": "faturamento_mensal",
+    "month": "Outubro",
+    "year": 2023,
+    "value": 225000,
+    "source": "relatorio_anual_2023",
+    "content": "O faturamento de Outubro de 2023 foi de R$ 225.000,00."
+  },
+  {
+    "id": "fat_2023_11",
+    "doc_type": "faturamento_mensal",
+    "month": "Novembro",
+    "year": 2023,
+    "value": 250000,
+    "source": "relatorio_anual_2023",
+    "content": "O faturamento de Novembro de 2023 foi de R$ 250.000,00."
+  },
+  {
+    "id": "fat_2023_12",
+    "doc_type": "faturamento_mensal",
+    "month": "Dezembro",
+    "year": 2023,
+    "value": 290000,
+    "source": "relatorio_anual_2023",
+    "content": "O faturamento de Dezembro de 2023 foi de R$ 290.000,00."
+  },
+  {
+    "id": "fat_2023_total",
+    "doc_type": "faturamento_anual",
+    "month": null,
+    "year": 2023,
+    "value": 2110000,
+    "source": "relatorio_anual_2023",
+    "content": "O faturamento Anual Total de 2023 para a ACR Tech foi de R$ 2.110.000,00."
+  },
+  {
+    "id": "obs_2023_01",
+    "doc_type": "observacao_mercado",
+    "month": null,
+    "year": 2023,
+    "value": null,
+    "source": "relatorio_anual_2023",
+    "content": "O ano de 2023 foi marcado pela consolidação da marca ACR Tech no mercado nacional."
+  },
+  {
+    "id": "obs_2023_02",
+    "doc_type": "observacao_investimento",
+    "month": null,
+    "year": 2023,
+    "value": null,
+    "source": "relatorio_anual_2023",
+    "content": "Investimentos em marketing digital no terceiro trimestre de 2023 resultaram em um aumento de 25% na geração de leads."
+  },
+  {
+    "id": "prod_record_2023",
+    "doc_type": "produto_recorde_vendas",
+    "month": null,
+    "year": 2023,
+    "value": null,
+    "source": "relatorio_anual_2023",
+    "content": "O produto com maior volume de vendas em 2023 foi o ACR-X, responsável por 35% do faturamento anual."
+  },
+  {
+    "id": "proj_2024_2025",
+    "doc_type": "projecao_faturamento",
+    "month": null,
+    "year": 2024,
+    "value": 3500000,
+    "source": "relatorio_anual_2023",
+    "content": "A projeção de faturamento para 2024 é de R$ 3.500.000,00, com expectativa de crescimento de 15% em 2025."
+  }
+]
